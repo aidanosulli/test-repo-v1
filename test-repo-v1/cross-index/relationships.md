@@ -2,26 +2,36 @@
 
 ## Shared Themes
 
-- **Physics of force and resistance**: [1] Three-Phase Blueprint for Increasing Vertical Jump and Dunking, [2] Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
-- **Progressive skill/performance development through structured phases or frameworks**: [1] Three-Phase Blueprint for Increasing Vertical Jump and Dunking, [2] Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
-- **Educational/instructional content for beginners or improvers**: [1] Three-Phase Blueprint for Increasing Vertical Jump and Dunking, [2] Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
-- **YouTube as source medium**: [1] Three-Phase Blueprint for Increasing Vertical Jump and Dunking, [2] Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
+- **Strength training as foundation for vertical jump**: [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework, [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+- **Individual-specific programming over generic approaches**: [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework, [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+- **Multi-phase/progressive training structure**: [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework, [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+- **Body composition as a limiting factor for jump performance**: [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework, [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+- **Tendon and nervous system development for elasticity**: [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework, [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+
+## Contradictions
+
+- **Periodization approach** — [1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework vs [2] Three-Phase Blueprint for Increasing Vertical Jump and Dunking: Source 1 implies structured phase-based needs analysis and sequencing, while Source 2 explicitly warns against block periodization (pure strength followed by pure jumping) and advocates for variety and concurrent training qualities throughout.
 
 ## Source Trust Scores
 
 | Ref | Source | Score | Notes |
 |---|---|---|---|
-| [1] | Three-Phase Blueprint for Increasing Vertical Jump and Dunking | 3/5 | Content appears practical and internally consistent, but comes from a single YouTube source with no corroborating references, expert credentials, or citations to exercise science literature. |
-| [2] | Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers | 4/5 | Sailing fundamentals described (points of sail, aerodynamic lift analogy, keel physics) align well with widely accepted introductory sailing instruction, though the source is a single YouTube video without cited authority. |
+| [1] | Volleyball Vertical Jump Training: Needs Analysis and Programming Framework | 4/5 | Presents a systematic needs analysis framework grounded in measurable metrics (RSI, power clean, body fat %) that aligns with sports science principles, though it is a YouTube source without cited peer-reviewed backing. |
+| [2] | Three-Phase Blueprint for Increasing Vertical Jump and Dunking | 4/5 | Covers a coherent three-phase progression consistent with established strength and conditioning principles, though as a YouTube source it lacks formal citations and the content is truncated. |
 
 ## Gaps
 
-- Nutrition and recovery protocols relevant to vertical jump training
-- Injury prevention and rehabilitation considerations for explosive athletic training
-- Safety procedures and weather awareness for beginner sailors
-- Quantitative benchmarks or timelines for expected progress in either domain
-- Equipment selection guidance for both jumping/strength training and sailing
-- The full content of both sources — both notes appear truncated mid-sentence
-- Credentials or qualifications of the content creators for either source
-- Target audience skill level and prerequisites for the vertical jump program
-- Tacking and jibing procedures in the sailing source (implied but cut off)
+- Recovery and sleep protocols and their impact on vertical jump development
+- Nutrition strategies specific to jump training and body composition optimization
+- Injury prevention and prehabilitation routines for common volleyball injuries (e.g., patellar tendinopathy)
+- In-season vs. off-season programming differences for volleyball athletes
+- Plyometric volume and intensity guidelines (sets, reps, ground contacts per week)
+- Specific RSI benchmarks and how to systematically improve reactive strength
+- Programming for youth or adolescent volleyball athletes
+- Deload and tapering strategies before competition
+- Psychological factors and motivation strategies for long-term adherence
+- Gender-specific considerations in vertical jump training
+
+## Most Central Source
+
+**[1] Volleyball Vertical Jump Training: Needs Analysis and Programming Framework** — Source 1 provides the foundational needs analysis framework that determines how any training program — including the one described in Source 2 — should be selected and applied to an individual athlete.
