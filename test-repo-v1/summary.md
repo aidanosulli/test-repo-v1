@@ -4,7 +4,7 @@ This knowledge base contains notes on diverse topics including athletic training
 
 ## What this brain covers
 
-Change Name is a knowledge base that captures practical, skill-building knowledge across a diverse range of physical and technical pursuits. It includes training methodology for athletic performance, such as structured approaches to increasing vertical jump and building foundational strength. It also covers recreational and technical skills like sailing, including the physics of wind and water, points of sail, and fundamental maneuvers. The notes emphasize core principles and actionable frameworks, making them useful for both beginners learning new skills and more experienced practitioners looking to push past plateaus.
+This knowledge base covers a diverse range of practical, skill-based topics aimed at personal improvement and learning. It includes athletic training content, such as structured approaches to building explosive strength and increasing vertical jump performance, with an emphasis on progressive overload, consistency, and overcoming plateaus. It also covers foundational knowledge in sailing, including the physics of wind and water interaction, points of sail, and basic navigation maneuvers. The collection appears to focus on actionable, principle-driven learning across both physical fitness and outdoor skill domains.
 
 ## Sources (2)
 
