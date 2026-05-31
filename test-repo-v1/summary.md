@@ -4,7 +4,7 @@ This knowledge base covers athletic performance training, primarily focused on v
 
 ## What this brain covers
 
-This knowledge base covers practical training and skill development across a few distinct domains. It includes detailed guidance on athletic performance, particularly vertical jump training for volleyball players and general jump improvement, covering topics like needs analysis, programming frameworks, strength development, and long-term progression through plateaus. There is also foundational content on sailing, introducing core concepts such as points of sail, sail aerodynamics, and basic maneuvers for beginners. The material emphasizes individualized approaches, consistency over time, and understanding underlying principles rather than simply following generic advice.
+This knowledge base covers athletic performance training and an introduction to sailing fundamentals. A significant portion focuses on vertical jump development, including training principles for volleyball athletes, needs analysis, program design frameworks, and a structured multi-phase approach to building explosive jumping ability. Key themes across the jump training material include the importance of individualized programming, strength as a foundation for athleticism, managing injury, and maintaining long-term progress through varied training stimuli. The knowledge base also includes beginner-level sailing knowledge, covering how boats harness wind through opposing forces, points of sail, essential vocabulary, and basic maneuvers.
 
 ## Sources (3)
 
