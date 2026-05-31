@@ -1,16 +1,25 @@
 # Key Concepts: Change Name — 2026-05-31
 
-## Adaptation and Progressive Overload
+## Individual Needs Assessment
 
-- **Body Adaptation Principle**: The body adapts only as much as it needs to survive its environment, requiring training variety to prevent plateaus.
-- **Strength as Foundation**: Getting brutally strong is non-negotiable for jumping ability, and one cannot become too strong while jumping regularly.
+- **Individual Needs Analysis**: The right program for you matters more than the best program in general — individual needs trump generic training.
 
-## Opposing Forces and Physics
+## Injury Prevention and Pain Management
 
-- **Opposing Forces in Sailing**: Sailing works through wind pressing against sails versus water pressing against the keel and rudder, with these opposing forces driving the boat forward.
-- **Aerodynamic Principles in Sailing**: The sail acts like an airplane wing generating lift while the keel and rudder act as underwater wings resisting lateral movement.
-- **Parachute Effect Downwind**: When running dead downwind, sails act like parachutes, representing different physics than upwind or beam sailing.
+- **Pain as Primary Bottleneck**: Pain is always the primary bottleneck; no training stimulus can compensate for an injury that prevents execution.
 
-## Persistence and Long-term Progress
+## Genetic vs. Controllable Factors
 
-- **Persistence Over Time**: Failure only occurs if you quit, and personal records can come years after apparent plateaus.
+- **Genetic Potential**: Genetics influences jumping ability, but improvement is always within your control regardless of starting point.
+
+## Training Variety and Adaptation
+
+- **Adaptive Stimulus**: The body adapts only as much as it needs to survive its environment — variety in training is required to prevent plateaus.
+
+## Progressive Strength Development
+
+- **Strength Foundation**: Getting brutally strong is non-negotiable; being too strong while jumping regularly is essentially impossible.
+
+## Long-term Performance Development
+
+- **Persistent Progress**: Failure only occurs if you quit — PRs can come years after apparent plateaus.
