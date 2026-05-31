@@ -1,19 +1,37 @@
 # Shared Themes: Change Name — 2026-05-31
 
-## Adaptation and Progressive Overload
+## Individual Needs Assessment
 
-The body adapts to environmental demands and requires progressive variation to avoid plateaus and continue improvement
+Emphasis on personalized training approaches that account for individual differences rather than applying generic programs
+
+**Sources:** Volleyball Vertical Jump Training: Needs Analysis and Programming Framework
+
+## Injury Prevention and Pain Management
+
+Recognition that pain and injury are limiting factors that must be addressed before applying training stimulus
+
+**Sources:** Volleyball Vertical Jump Training: Needs Analysis and Programming Framework
+
+## Genetic vs. Controllable Factors
+
+Understanding that while genetics influence jumping ability, improvement remains achievable regardless of starting point
 
 **Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
 
-## Opposing Forces and Physics
+## Progressive Strength Development
 
-Understanding how opposing or complementary forces interact to create movement and control in physical systems
+Focus on building significant strength as a non-negotiable foundation for jumping performance
 
-**Sources:** Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
+**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
 
-## Persistence and Long-term Progress
+## Training Variety and Adaptation
 
-Success comes from continuous effort over extended periods, with breakthroughs possible years after apparent plateaus
+Principle that the body requires varied stimulus to prevent plateaus and continue adapting
+
+**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+
+## Long-term Performance Development
+
+Recognition that progress is non-linear and personal records can occur years after apparent plateaus
 
 **Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
