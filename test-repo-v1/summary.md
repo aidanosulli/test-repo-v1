@@ -4,7 +4,7 @@ This knowledge base contains notes on diverse topics including athletic training
 
 ## What this brain covers
 
-This knowledge base covers a diverse range of practical, skill-based topics aimed at personal improvement and learning. It includes athletic training content, such as structured approaches to building explosive strength and increasing vertical jump performance, with an emphasis on progressive overload, consistency, and overcoming plateaus. It also covers foundational knowledge in sailing, including the physics of wind and water interaction, points of sail, and basic navigation maneuvers. The collection appears to focus on actionable, principle-driven learning across both physical fitness and outdoor skill domains.
+This knowledge base covers a diverse range of practical, skill-based topics focused on physical performance and outdoor activities. It includes detailed guidance on athletic training, specifically a structured approach to improving vertical jump and dunking ability, covering principles like strength development, progressive adaptation, and long-term consistency. It also explores the fundamentals of sailing, including the physics of how boats move through wind and water, key terminology, and basic maneuvers for beginners. The content emphasizes actionable, principle-driven learning that helps people build real-world skills from the ground up.
 
 ## Sources (2)
 
