@@ -2,36 +2,30 @@
 
 ## Individual Needs Assessment
 
-Emphasis on personalized training approaches that account for individual differences rather than applying generic programs
+The importance of tailoring approaches to individual circumstances rather than following generic best practices
 
 **Sources:** Volleyball Vertical Jump Training: Needs Analysis and Programming Framework
-
-## Injury Prevention and Pain Management
-
-Recognition that pain and injury are limiting factors that must be addressed before applying training stimulus
-
-**Sources:** Volleyball Vertical Jump Training: Needs Analysis and Programming Framework
-
-## Genetic vs. Controllable Factors
-
-Understanding that while genetics influence jumping ability, improvement remains achievable regardless of starting point
-
-**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
 
 ## Progressive Strength Development
 
-Focus on building significant strength as a non-negotiable foundation for jumping performance
+Building strength as a foundational component of athletic performance and jump training
 
 **Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
 
-## Training Variety and Adaptation
+## Adaptation and Plateau Prevention
 
-Principle that the body requires varied stimulus to prevent plateaus and continue adapting
-
-**Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
-
-## Long-term Performance Development
-
-Recognition that progress is non-linear and personal records can occur years after apparent plateaus
+How the body adapts to training stimuli and the necessity of variety to continue progress
 
 **Sources:** Three-Phase Blueprint for Increasing Vertical Jump and Dunking
+
+## Physics of Movement
+
+Understanding the mechanical and physical principles that govern athletic performance and sailing
+
+**Sources:** Beginner Sailing Fundamentals: Points of Sail, Vocabulary, and Basic Maneuvers
+
+## Injury Prevention and Pain Management
+
+Pain as a primary limiting factor in training execution and performance
+
+**Sources:** Volleyball Vertical Jump Training: Needs Analysis and Programming Framework
