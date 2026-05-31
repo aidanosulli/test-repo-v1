@@ -1,10 +1,10 @@
 # Change Name — Brain Summary
 
-This knowledge base contains notes on diverse topics including athletic training for vertical jump improvement and sailing fundamentals, drawing from YouTube sources with emphasis on core principles and practical techniques.
+This knowledge base covers athletic performance training, primarily focused on volleyball vertical jump development and dunking mechanics, along with fundamentals of sailing. Topics include needs-based training programming, periodized jump training blueprints, and sailing physics
 
 ## What this brain covers
 
-This knowledge base covers athletic performance training and an introductory outdoor sport skill set. A significant portion focuses on vertical jump development, including needs analysis, programming frameworks, strength-building principles, and how to break through plateaus, with particular attention to volleyball athletes. The training content emphasizes individualized programming, injury management, and the importance of progressive overload and variety to drive adaptation. The knowledge base also branches into beginner sailing, covering foundational concepts like points of sail, the physics of how wind and water interact to propel a boat, and basic sailing maneuvers and vocabulary.
+This knowledge base covers practical training and skill development across a few distinct domains. It includes detailed guidance on athletic performance, particularly vertical jump training for volleyball players and general jump improvement, covering topics like needs analysis, programming frameworks, strength development, and long-term progression through plateaus. There is also foundational content on sailing, introducing core concepts such as points of sail, sail aerodynamics, and basic maneuvers for beginners. The material emphasizes individualized approaches, consistency over time, and understanding underlying principles rather than simply following generic advice.
 
 ## Sources (3)
 
